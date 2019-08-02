@@ -1,1 +1,1 @@
-var Dwarves from Snow White = ["Bashful", "Sleepy", "Snezzy"];
+var Snow White dwarves = ["Bashful","Grumpy","Happy","Dopey", "Sleepy","Doc", "Snezzy"];
