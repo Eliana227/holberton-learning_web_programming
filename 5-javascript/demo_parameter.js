@@ -3,3 +3,8 @@ let my_parameter = process.argv[2];
 
 // Print the my_parameter variable
 console.log(my_parameter)
+
+
+Sylvains-MacBook-Pro:6-javascript_continued sylvain$ node demo_parameter.js Hello
+Hello
+Sylvains-MacBook-Pro:6-javascript_continued sylvain$
