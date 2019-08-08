@@ -18,7 +18,8 @@ body {
 }
 
 .jumbotron-heading {
-  font-weight: 300;
+  font-weight: 300
+  background-image: url(https://assets.entrepreneur.com/content/3x2/2000/20180530194716-GettyImages-865293688.jpeg?width=700&crop=2:1);
 }
 
 .jumbotron .container {
